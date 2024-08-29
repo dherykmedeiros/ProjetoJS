@@ -1,5 +1,3 @@
-/* styles.css */
-
 :root {
     --bg-color: #f4f4f4;
     --text-color: #333;
@@ -156,7 +154,7 @@ h1 {
     right: 10px;
 }
 
-/* Tema Escuro */
+
 body.dark-mode {
     --bg-color: #333;
     --text-color: #f4f4f4;

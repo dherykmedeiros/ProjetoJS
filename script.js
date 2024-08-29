@@ -1,4 +1,3 @@
-// script.js
 document.getElementById('addTaskButton').addEventListener('click', addTask);
 document.getElementById('saveEditButton').addEventListener('click', saveTaskEdit);
 document.getElementById('themeToggleButton').addEventListener('click', toggleTheme);
